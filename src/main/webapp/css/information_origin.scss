@@ -1,0 +1,24 @@
+.main__right-site {
+  &__wrap-content {
+    padding: 10px;
+    background-color: #FFF;
+    border-radius: 5px;
+    min-height: 100%;
+
+    .col-4 {
+      .row {
+        .col {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+
+          img {
+            width: 200px;
+            height: 200px;
+          }
+        }
+      }
+    }
+  }
+}

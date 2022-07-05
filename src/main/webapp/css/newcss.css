@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+:root{
+				--text-color: #000000;
+				--text-secondary-color:#666666;
+				--primary-color: #ec1c24;
+				--secondary-color:#c40019;
+				--price-color: #ec1c24;
+				--topbar-bg: #fdd835;
+				--topbar-color: #000000;
+				--header-background: #ec1c24;
+				--header-color: #f0f0f0;
+				--label-background: #ec1c24;
+				--label-color: #ffffff;
+
+			};
+.linh{max-width:25%;}

@@ -1,0 +1,18 @@
+.header-filter {
+  display: flex;
+
+  .form-check {
+    width: 100%;
+  }
+}
+
+.content-table {
+  tbody {
+    td {
+      img {
+        width: 75px;
+        height: 75px;
+      }
+    }
+  }
+}

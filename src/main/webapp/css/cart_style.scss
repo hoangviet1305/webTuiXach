@@ -1,0 +1,49 @@
+.cart {
+  &__header {
+    background-color: #fff;
+    height: 52px;
+    display: flex;
+    align-items: center;
+  }
+
+  &__list-order-detail {
+    .order-detail {
+      background-color: #fff;
+      &__left-site {
+        display: flex;
+        align-items: center;
+        img {
+          width: 150px;
+          height: 150px;
+        }
+      }
+    }
+  }
+
+  &__sum {
+    background-color: #fff;
+    height: 75px;
+    .col-12 {
+      display: flex;
+      flex-direction: row-reverse;
+    }
+
+    &__wrap-content {
+      display: flex;
+      align-items: center;
+
+      p {
+        span {
+          font-size: 30px;
+          color: #ec1c24;
+        }
+      }
+
+
+      button {
+        width: 260px;
+        background-color: #ec1c24;
+      }
+    }
+  }
+}

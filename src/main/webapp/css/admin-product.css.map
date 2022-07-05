@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACb,OAAO,EAAE,IAAI;CAKd;;AAND,AAGE,cAHY,CAGZ,WAAW,CAAC;EACV,KAAK,EAAE,IAAI;CACZ;;AAGH,AAGM,cAHQ,CACZ,KAAK,CACH,EAAE,CACA,GAAG,CAAC;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "admin-product.scss"
+    ],
+    "names": [],
+    "file": "admin-product.css"
+}

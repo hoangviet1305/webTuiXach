@@ -1,0 +1,27 @@
+.main__right-site {
+  &__wrap-content {
+    .main-content__title {
+      &__top.col-12 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        button {
+          background-color: #ec1c24;
+        }
+      }
+    }
+
+    .main-content__content {
+      .item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &__left-site {
+          width: 70%;
+        }
+      }
+    }
+  }
+}

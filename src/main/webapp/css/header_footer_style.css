@@ -1,0 +1,209 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.header {
+  background-color: #ec1c24 !important;
+}
+
+.header .row {
+  width: 100%;
+}
+
+.header__wrap-left-site {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header__wrap-left-site input.form-control.mr-sm-2 {
+  width: 350px;
+  margin-right: 0 !important;
+  border-radius: 5px 0px 0px 5px;
+  border: none;
+}
+
+.header__wrap-left-site button.btn.my-2.my-sm-0 {
+  background-color: #c40019;
+  border-radius: 0 5px 5px 0;
+  color: #f0f0f0;
+  height: 36px;
+}
+
+.header__wrap-right-site {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header__wrap-right-site .dropdown {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header__wrap-right-site .dropdown .dropdown-menu .dropdown-item input[type="submit"] {
+  border: none;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+
+.header__wrap-right-site a.is-authen {
+  color: #f4f4f4;
+}
+
+.header__wrap-right-site .is-authen {
+  width: 220px;
+}
+
+.header__wrap-right-site .is-authen .user__right-site h5 {
+  margin-bottom: 0;
+  font-size: 14px;
+  text-overflow: ellipsis !important;
+  display: inline-block;
+  width: 130px;
+  white-space: nowrap;
+  overflow: hidden !important;
+}
+
+.header__wrap-right-site__user {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header__wrap-right-site__user .user__left-site img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.header__wrap-right-site__user .user__left-site svg {
+  color: #f0f0f0;
+}
+
+.header__wrap-right-site__user .user__right-site a {
+  color: #f0f0f0;
+}
+
+.header__wrap-right-site__user .user__right-site h6 {
+  margin-bottom: 0;
+}
+
+.header__wrap-right-site__user .user__right-site h5 {
+  margin-bottom: 0;
+}
+
+.header__wrap-right-site__gio-hang {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 20px;
+  border: 2px solid #f0f0f0;
+  border-radius: 5px;
+  background-color: #ec1c24;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang p {
+  margin-bottom: 0;
+  color: #f0f0f0;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang svg {
+  color: #f0f0f0;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang__bage {
+  display: block;
+  padding: 0px 5px;
+  background-color: #c40019;
+  border-radius: 5px;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang__bage p {
+  display: block;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang:hover {
+  background-color: #f0f0f0;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang:hover p.mx-3 {
+  color: #ec1c24;
+}
+
+.header__wrap-right-site__gio-hang .gio-hang__wrap-gio-hang:hover svg {
+  color: #ec1c24;
+}
+
+.under-navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.under-navbar__tab-dropdown__dropdown-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.under-navbar__tab-dropdown__dropdown-button .drop-item-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.under-navbar__items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 20px;
+}
+
+.under-navbar__items p {
+  margin-bottom: 0;
+}
+
+.content {
+  min-height: 300px;
+}
+
+footer {
+  border-top: 1px solid grey;
+}
+/*# sourceMappingURL=header_footer_style.css.map */

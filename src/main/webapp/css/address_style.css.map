@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACG,AAEG,+BAFW,CAEV,yBAAK,AAAA,OAAO,CAAC;EACZ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;CAKpB;;AAVJ,AAOK,+BAPS,CAEV,yBAAK,AAAA,OAAO,CAKX,MAAM,CAAC;EACL,gBAAgB,EAAE,OAAO;CAC1B;;AATN,AAcG,+BAdW,CAab,sBAAsB,CACpB,KAAK,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;CAKpB;;AAtBJ,AAmBK,+BAnBS,CAab,sBAAsB,CAMjB,gBAAW,CAAC;EACX,KAAK,EAAE,GAAG;CACX",
+    "sources": [
+        "address_style.scss"
+    ],
+    "names": [],
+    "file": "address_style.css"
+}

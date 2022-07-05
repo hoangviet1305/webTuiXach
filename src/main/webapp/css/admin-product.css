@@ -1,0 +1,15 @@
+.header-filter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header-filter .form-check {
+  width: 100%;
+}
+
+.content-table tbody td img {
+  width: 75px;
+  height: 75px;
+}
+/*# sourceMappingURL=admin-product.css.map */

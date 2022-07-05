@@ -1,0 +1,34 @@
+.login {
+  &__form {
+
+    padding: 15px;
+    border-radius: 15px;
+    background-color: #fff;
+
+    &__wrap-form {
+      border-top: solid 1px grey;
+
+      form {
+        width: 500px;
+
+        .error {
+          color: red;
+        }
+
+        .success {
+          color: greenyellow;
+        }
+
+        button {
+          background-color: #f5df4d;
+          border: none;
+          color: black;
+          &:hover {
+            background-color: #f5df4d;
+            color: black;
+          }
+        }
+      }
+    }
+  }
+}

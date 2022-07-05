@@ -1,0 +1,33 @@
+.login__form {
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #fff;
+}
+
+.login__form__wrap-form {
+  border-top: solid 1px grey;
+}
+
+.login__form__wrap-form form {
+  width: 500px;
+}
+
+.login__form__wrap-form form .error {
+  color: red;
+}
+
+.login__form__wrap-form form .success {
+  color: greenyellow;
+}
+
+.login__form__wrap-form form button {
+  background-color: #f5df4d;
+  border: none;
+  color: black;
+}
+
+.login__form__wrap-form form button:hover {
+  background-color: #f5df4d;
+  color: black;
+}
+/*# sourceMappingURL=login_style.css.map */

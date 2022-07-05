@@ -1,0 +1,28 @@
+.main__right-site__wrap-content {
+  padding: 10px;
+  background-color: #FFF;
+  border-radius: 5px;
+  min-height: 100%;
+}
+
+.main__right-site__wrap-content .col-4 .row .col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.main__right-site__wrap-content .col-4 .row .col img {
+  width: 200px;
+  height: 200px;
+}
+/*# sourceMappingURL=information_origin.css.map */

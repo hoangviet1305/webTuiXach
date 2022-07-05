@@ -1,0 +1,78 @@
+.main__left-site {
+  background-color: #fff !important;
+  padding-top: 20px;
+  border-radius: 7px;
+}
+
+.main__left-site__header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main__left-site__header img {
+  width: 55px;
+}
+
+.main__left-site__header .name-user {
+  margin-left: 10px;
+}
+
+.main__left-site__header .name-user a {
+  font-size: 13px;
+  color: #007bff;
+}
+
+.main__left-site__header .name-user p {
+  font-size: 14px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 180px;
+  /* height: 1.2em; */
+  white-space: nowrap;
+  margin-bottom: 1px;
+}
+
+.main__left-site ul.list-unstyled.components li.not-active:hover {
+  background-color: #ec1c24;
+  border-radius: 5px;
+}
+
+.main__left-site ul.list-unstyled.components li.not-active a {
+  color: #000;
+}
+
+.main__left-site ul.list-unstyled.components li.not-active a:hover {
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: none;
+  transition: none;
+}
+
+.main__left-site ul.list-unstyled.components li.active a {
+  color: #000;
+}
+
+.main__left-site ul.list-unstyled.components li.active a:hover {
+  color: #fff;
+  background-color: #ec1c24;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.main__left-site ul.list-unstyled.components li.active li:hover {
+  background-color: #ec1c24;
+  border-radius: 5px;
+}
+
+.main__left-site ul.list-unstyled.components li.active li a {
+  color: #000;
+}
+
+.main__left-site ul.list-unstyled.components li.active li a:hover {
+  color: #fff;
+}
+/*# sourceMappingURL=information_page_style.css.map */
